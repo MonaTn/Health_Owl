@@ -1,0 +1,7 @@
+#Fri Nov 04 22:19:45 EDT 2016
+base.0=/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0cfc1918fc6dce4ef68be0ed0b76622b4481dd8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_442fdec7ec3a8edecb1508cb24c837a828ebfd2b/classes.dex
+base.1=/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_442fdec7ec3a8edecb1508cb24c837a828ebfd2b
+file.0=/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0cfc1918fc6dce4ef68be0ed0b76622b4481dd8/classes.dex

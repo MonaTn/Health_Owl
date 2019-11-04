@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:10:5-87:19
+MERGED from [com.android.support:design:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:15:9-40
+activity#m2y.centennial.healthowl.MainActivity
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:16:19-47
+activity#m2y.centennial.healthowl.menu
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:18:19-39
+activity#m2y.centennial.healthowl.patient.patientList
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:20:9-26:20
+	android:parentActivityName
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:21:13-48
+meta-data#android.support.ParentACTIVITY
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:23:13-25:40
+	android:value
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:25:17-38
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:24:17-62
+activity#m2y.centennial.healthowl.patient.patientMain
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:27:9-33:20
+	android:parentActivityName
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:29:13-62
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:28:13-48
+activity#m2y.centennial.healthowl.patient.PatientFragmentAdapter
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:34:19-65
+activity#m2y.centennial.healthowl.Login
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:36:9-38:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:36:19-40
+activity#m2y.centennial.healthowl.appointment.AppointmentTabs
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:39:19-62
+activity#m2y.centennial.healthowl.LoginActivity
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:44:13-57
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:43:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:48:27-74
+activity#m2y.centennial.healthowl.groups.GroupMainActivity
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:52:9-62
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:52:19-59
+activity#m2y.centennial.healthowl.groups.GroupAdd
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:53:9-53
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:53:19-50
+activity#m2y.centennial.healthowl.groups.GroupDetails
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:55:19-54
+activity#m2y.centennial.healthowl.test.TestAdd
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:58:9-59:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:58:19-47
+activity#m2y.centennial.healthowl.test.TestDetails
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:61:19-51
+activity#m2y.centennial.healthowl.appointment.MainAppointments
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:64:9-70:20
+	android:parentActivityName
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:65:13-57
+activity#m2y.centennial.healthowl.appointment.addAppointment
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:72:9-78:20
+	android:parentActivityName
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:74:13-71
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:73:13-55
+activity#m2y.centennial.healthowl.test.TestMainActivity
+ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:80:9-86:20
+	android:parentActivityName
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:82:13-47
+	android:name
+		ADDED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml:81:13-50
+uses-sdk
+INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml
+		INJECTED from /Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/AndroidManifest.xml

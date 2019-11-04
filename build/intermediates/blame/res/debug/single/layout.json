@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_group_add.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_group_add.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_time_picker.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_time_picker.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_test_result.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_test_result.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/listrow_details.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/listrow_details.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_add_appointment.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_add_appointment.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/listrow_group.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/listrow_group.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_clinicalsigns.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_clinicalsigns.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_patient_list.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_patient_list.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_appointment_tabs.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_appointment_tabs.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_add_test.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_add_test.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_group.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_group.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_main_appointments.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_main_appointments.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_diagnosis.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_diagnosis.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_group_details.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_group_details.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_login2.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_login2.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/appointment_list.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/appointment_list.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_emergency.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_emergency.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_page.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_page.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_page3.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_page3.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_patient_fragment_adapter.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_patient_fragment_adapter.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/activity_patient_main.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/activity_patient_main.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/fragment_page2.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/layout/fragment_page2.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    }
+]

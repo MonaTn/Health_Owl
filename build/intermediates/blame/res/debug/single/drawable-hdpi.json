@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/drawable-hdpi/add_button.png",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/drawable-hdpi/add_button.png"
+    },
+    {
+        "merged": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/build/intermediates/res/merged/debug/drawable-hdpi/health_owl.png",
+        "source": "/Users/margot/AndroidStudioProjects/HealthOwl/health_Owl/src/main/res/drawable-hdpi/health_owl.png"
+    }
+]

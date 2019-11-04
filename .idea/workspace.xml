@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="579f8fcf-0864-4676-b9c4-6c3e48a98601" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HealthOwl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/m2y/centennial/healthowl/test/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/m2y/centennial/healthowl/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/androidTest/debug/m2y/centennial/healthowl/test/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/debug/android/support/design/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/r/debug/m2y/centennial/healthowl/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/public.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_grow_fade_in_from_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_enter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_exit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_shrink_fade_out_from_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v23/abc_color_highlight_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_focused_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-af/values-af.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-az-rAZ/values-az-rAZ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-bg/values-bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-bn-rBD/values-bn-rBD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ca/values-ca.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-en-rAU/values-en-rAU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-en-rGB/values-en-rGB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-et-rEE/values-et-rEE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-eu-rES/values-eu-rES.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-fi/values-fi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gl-rES/values-gl-rES.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-gu-rIN/values-gu-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-h320dp-v13/values-h320dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-h720dp-v13/values-h720dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-hdpi-v4/values-hdpi-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-hy-rAM/values-hy-rAM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-in/values-in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-is-rIS/values-is-rIS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ka-rGE/values-ka-rGE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-kk-rKZ/values-kk-rKZ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-km-rKH/values-km-rKH.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-kn-rIN/values-kn-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ky-rKG/values-ky-rKG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-land/values-land.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-large-v4/values-large-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-lo-rLA/values-lo-rLA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-lv/values-lv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ml-rIN/values-ml-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mn-rMN/values-mn-rMN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mr-rIN/values-mr-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ms-rMY/values-ms-rMY.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-my-rMM/values-my-rMM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pa-rIN/values-pa-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-port/values-port.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-pt/values-pt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-si-rLK/values-si-rLK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ta-rIN/values-ta-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-te-rIN/values-te-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ur-rPK/values-ur-rPK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-uz-rUZ/values-uz-rUZ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v12/values-v12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v13/values-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v17/values-v17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v18/values-v18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v22/values-v22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-w360dp-v13/values-w360dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-w480dp-v13/values-w480dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-w500dp-v13/values-w500dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-w600dp-v13/values-w600dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-w720dp-v13/values-w720dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-xlarge-v4/values-xlarge-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/public.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim-v21/design_bottom_sheet_slide_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim-v21/design_bottom_sheet_slide_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_bottom_sheet_slide_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_bottom_sheet_slide_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_fab_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_fab_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_snackbar_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/anim/design_snackbar_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values-land/values-land.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values-sw600dp-v13/values-sw600dp-v13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/public.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/media/RatingCompat.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/aidl/android/support/v4/os/ResultReceiver.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_Owl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/m2y/centennial/healthowl/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/AppointmentTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/CustomListViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/MainAppointments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/PageFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/SampleFragmentPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/TimePickerFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/appointment/addAppointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/groups/GroupAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/groups/GroupDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/groups/GroupMainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/patient/PageFragment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/patient/PatientFragmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/patient/patientList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/patient/patientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/test/TestAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/test/TestDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/m2y/centennial/healthowl/test/TestMainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/add_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/health_owl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/add_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/health_owl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/add_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/health_owl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/add_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/health_owl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_add_appointment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_add_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_appointment_tabs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_group_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_group_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_login2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main_appointments.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_patient_fragment_adapter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_patient_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_patient_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_test_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/appointment_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_clinicalsigns.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_diagnosis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_emergency.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_page2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_page3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_time_picker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/listrow_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/listrow_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/menu_appointment_tabs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/m2y/centennial/healthowl/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <ignored path="health_Owl.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/builds/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/dependency-cache/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-safeguard/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-verifier/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant-run-resources/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant-run-support/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/reload-dex/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/restart-dex/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="health_Owl" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1749" />
+    <option name="y" value="-253" />
+    <option name="width" value="1574" />
+    <option name="height" value="913" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HealthOwl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HealthOwl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HealthOwl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HealthOwl" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;module" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="579f8fcf-0864-4676-b9c4-6c3e48a98601" name="Default" comment="" />
+      <created>1478824111033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478824111033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1749" y="-253" width="1574" height="913" extended-state="0" />
+    <layout>
+      <window_info id="Resources Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20169713" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Nl-Palette" order="8" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Gradle Console" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Android Monitor" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3282313" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Assistant" visible="true" weight="0.26631853" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Properties" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/outputs/apk/health_Owl-debug.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

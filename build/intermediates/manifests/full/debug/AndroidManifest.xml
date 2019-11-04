@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="m2y.centennial.healthowl"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="m2y.centennial.healthowl.MainActivity" >
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.menu" >
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.patient.patientList"
+            android:parentActivityName="m2y.centennial.healthowl.menu" >
+            <meta-data
+                android:name="android.support.ParentACTIVITY"
+                android:value=".menu" />
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.patient.patientMain"
+            android:parentActivityName="m2y.centennial.healthowl.patient.patientList" >
+            <meta-data
+                android:name="android.support.ParentACTIVITY"
+                android:value=".patientList" />
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.patient.PatientFragmentAdapter" >
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.Login" >
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.appointment.AppointmentTabs" >
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.LoginActivity"
+            android:label="@string/title_activity_login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.groups.GroupMainActivity" />
+        <activity android:name="m2y.centennial.healthowl.groups.GroupAdd" />
+        <activity android:name="m2y.centennial.healthowl.groups.GroupDetails" >
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.test.TestAdd" >
+        </activity>
+        <activity android:name="m2y.centennial.healthowl.test.TestDetails" >
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.appointment.MainAppointments"
+            android:parentActivityName="m2y.centennial.healthowl.menu" >
+            <meta-data
+                android:name="android.support.ParentACTIVITY"
+                android:value=".menu" />
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.appointment.addAppointment"
+            android:parentActivityName="m2y.centennial.healthowl.appointment.MainAppointments" >
+            <meta-data
+                android:name="android.support.ParentACTIVITY"
+                android:value=".appointment.MainAppointments" />
+        </activity>
+        <activity
+            android:name="m2y.centennial.healthowl.test.TestMainActivity"
+            android:parentActivityName="m2y.centennial.healthowl.menu" >
+            <meta-data
+                android:name="android.support.ParentACTIVITY"
+                android:value=".menu" />
+        </activity>
+    </application>
+
+</manifest>
